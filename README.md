@@ -4,7 +4,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gloria - Tu Clínica Dental de Confianza</title>
     <meta name="description" content="Clínica dental Gloria con más de 15 años de experiencia. Implantes, ortodoncia invisible, estética dental y urgencias 24/7. Primera consulta gratuita.">
-    
+
+     <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rodrigoratouu-code.github.io/GloriaClinic" />
+    <meta property="og:title" content="GloriaClinic" />
+    <meta property="og:description" content="Bienvenidos a GloriaClinic " />
+    <meta property="og:image" content="https://rodrigoratouu-code.github.io/GloriaClinic/mini.webp" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="TuNoSaBeNa" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://rodrigoratouu-code.github.io/GloriaClinic" />
+    <meta name="twitter:title" content="GloriaClinic" />
+    <meta name="twitter:description" content="GloriaClinic" />
+    <meta name="twitter:image" content="https://rodrigoratouu-code.github.io/GloriaClinic/mini.webp" />
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
