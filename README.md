@@ -1589,7 +1589,7 @@
                 </div>
                 
                 <div class="about-image reveal">
-                    <img src="fotoGloria.webp"alt="Instalaciones modernas">
+                    <img src="ortodoncia.webp"alt="Instalaciones modernas">
                 </div>
             </div>
         </div>
