@@ -3,9 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gloria - Tu Clínica Dental de Confianza</title>
-    <meta name="description" content="Clínica dental Gloria con más de 15 años de experiencia. Implantes, ortodoncia invisible, estética dental y urgencias 24/7. Primera consulta gratuita.">
-
      <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://rodrigoratouu-code.github.io/GloriaClinic" />
@@ -27,7 +24,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
     
-
+    <title>Gloria - Tu Clínica Dental de Confianza</title>
     <style>
         :root {
             --color-primary: #0A4D68;
