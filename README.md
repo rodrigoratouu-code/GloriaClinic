@@ -6,8 +6,8 @@
      <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://rodrigoratouu-code.github.io/GloriaClinic" />
-    <meta property="og:title" content="GloriaClinic" />
-    <meta property="og:description" content="Bienvenidos a GloriaClinic " />
+    <meta property="og:title" content="Clinica Dental" />
+    <meta property="og:description" content="Bienvenidos Clinica Dental " />
     <meta property="og:image" content="https://rodrigoratouu-code.github.io/GloriaClinic/mini.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
