@@ -1504,9 +1504,17 @@
                 </p>
                 
                 <div class="hero-buttons">
-                    <button class="btn btn-primary">📅 Reserva tu cita gratuita</button>
-                    <button class="btn btn-secondary">📞 Llámanos ahora</button>
-                </div>
+                  <a href="https://wa.me/34644864324?text=Hola,%20quiero%20reservar%20mi%20cita" 
+                     class="btn btn-primary">
+                       📅 Reserva tu cita gratuita
+                  </a>
+
+                  <a href="tel:+346448643249" 
+                     class="btn btn-secondary">
+                       📞 Llámanos ahora
+                 </a>
+               </div>
+
                 
                 <div class="hero-stats">
                     <div class="stat-item">
