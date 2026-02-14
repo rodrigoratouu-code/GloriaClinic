@@ -1424,6 +1424,10 @@
     display: none;
 }
 
+.member-photo::after {
+    content: none !important;
+}
+
 
 
     </style>
